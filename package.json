@@ -1,0 +1,28 @@
+{
+  "name": "garden-js",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/susisu/GardenJS.git"
+  },
+  "author": "Susisu <susisu2413@yahoo.co.jp> (https://github.com/susisu)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/susisu/GardenJS/issues"
+  },
+  "homepage": "https://github.com/susisu/GardenJS",
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "gulp": "^3.8.10",
+    "gulp-mocha": "^2.0.0",
+    "gulp-webpack": "^1.2.0"
+  },
+  "dependencies": {
+    "electronvolt": "^1.0.1"
+  }
+}
